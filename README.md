@@ -16,13 +16,13 @@ Get random names from Star Wars characters.
 This package is distributed via npm:
 
 ```
-npm install npm-pub
+npm install npm-pub-demo
 ```
 
 ## Usage
 
 ```javascript
-var names = require('npm-pub');
+var names = require('npm-pub-demo');
 var allNames = names.all;
 var randomName = names.random();
 var threeRandomNames = names.random(3);
