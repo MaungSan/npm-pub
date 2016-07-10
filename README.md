@@ -29,5 +29,5 @@ var threeRandomNames = names.random(3);
 ```
 
 ## Other
-
+Link to the [build page](https://travis-ci.org/msan001/npm-pub).
 This library was developed by [Maung San](https://twitter.com/msan001).
