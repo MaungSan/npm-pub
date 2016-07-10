@@ -1,5 +1,5 @@
 {
-  "name": "npm github publish demo",
+  "name": "npm-github-publish-demo",
   "version": "0.0.0-semantically-released",
   "description": "Get random Star Wars names",
   "main": "dist/index.js",
