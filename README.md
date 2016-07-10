@@ -9,7 +9,7 @@
 
 Get random names from Star Wars characters.
 
-![starwars-names](other/starwars-names.gif)
+
 
 ## Installation
 
